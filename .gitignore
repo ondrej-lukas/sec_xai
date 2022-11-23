@@ -1,1 +1,2 @@
-data/*
+#Ignore partial data points
+data/
