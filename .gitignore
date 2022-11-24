@@ -1,2 +1,5 @@
 #Ignore partial data points
 data/
+
+#Ignore the vevn
+sec-xai/
